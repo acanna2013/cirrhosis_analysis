@@ -35,12 +35,15 @@ I graphed scatterplots to visualize the relationship between two variables. Belo
 
 # Conclusion
 ![image](https://github.com/acanna2013/CirrhosisProject/assets/51142303/f19ff582-90dd-4713-8f8c-028f1ecd401e)
+\
 Test set: Model resulted in ~71.43% accuracy. 
 
 ![image](https://github.com/acanna2013/CirrhosisProject/assets/51142303/09f8cf67-9e7f-499e-b468-7a04e931cfba)
+\
 Training set: Model resulted in ~82.43% accuracy.
 
 ![image](https://github.com/acanna2013/CirrhosisProject/assets/51142303/4f3957f7-ca51-452d-9149-9529b5d1b686)
+\
 Decision tree of the relationship between the relevant variables that may contribute to Cirrhosis. 
 
 
